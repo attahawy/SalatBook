@@ -1,0 +1,2 @@
+(this.webpackJsonpindian=this.webpackJsonpindian||[]).push([[0],{11:function(n,t,e){"use strict";e.r(t);var c=e(1),i=e.n(c),r=e(3),o=e.n(r),s=(e(8),e.p,e(9),e(0));var d=function(){return Object(s.jsx)("h1",{children:"Hello World"})};o.a.render(Object(s.jsx)(i.a.StrictMode,{children:Object(s.jsx)(d,{})}),document.getElementById("root"))},8:function(n,t,e){},9:function(n,t,e){}},[[11,1,2]]]);
+//# sourceMappingURL=main.6318dac2.chunk.js.map
